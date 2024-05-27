@@ -27,9 +27,10 @@ uriel = {
     "data_analysis": ["Tableau", "PowerBI", "Jupyter", "Excel", "Pandas", "Numpy"],
     "CAD": ["SolidEdge", "NX"],
     "simulation": ["FlexSim"],
-    "typesetting": ["LATEX"]
-  },
-  "erp_systems": ["SAP", "Advanta"]
+    "typesetting": ["LATEX"],
+    "erp_systems": ["SAP", "Advanta"],
+    "cloud_platforms": ["Heroku", "AWS"]
+  }
 }
 ```
 
