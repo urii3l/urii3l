@@ -53,19 +53,50 @@ uriel = {
 </td>
 
 <td width="50%">
-<h3 align="center">Chatbot WhatsApp Consulta Articulos por Foto</h3>
+<h3 align="center">Software para Cálculo de Transferencias</h3>
 <div align="center">                                       
-<a href="https://youtu.be/bBskCBXI6Wg" target="_blank"><img src="https://i.imgur.com/wiGPDan.jpeg" width="400" alt="Curso básico android"></a>
+<a href="https://youtu.be/XlLQurPsyFw" target="_blank"><img src="https://i.imgur.com/1hwvXvG.jpeg" width="400" alt="Curso básico android"></a>
 <br>
 <p>
-<a href="https://youtu.be/bBskCBXI6Wg" target="_blank">
+<a href="[https://youtu.be/XlLQurPsyFw" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>El Bot de WhatsApp recibe fotos de productos comerciales, los identifica y devuelve información de importancia para la compañía. Esta desarrollado con Python y usa la API de META. Tiene conexión a HANA y Snowflake </p>
+<p>Coloca tu inventario en el tiempo y lugar correctos. Realiza análisis de bases de datos para pronosticar ventas y sugerir transferencias entre tiendas de una organización.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Generador de Consultas SQL</h3>
+<div align="center">
+<a href="https://youtu.be/pC4QGR2eOt4" target="_blank"><img src="https://i.imgur.com/C4NaRqv.jpeg" width="400" alt="Curso básico android"></a>
+<p>
+<a href="https://youtu.be/pC4QGR2eOt4" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Programa Python con interfaz grafica que convierte selecciones de usuarios en código SQL, realizando la consulta y devolviendo un archivo Excel. </p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+<h3 align="center">Software para Cálculo de Transferencias</h3>
+<div align="center">                                       
+<a href="https://youtu.be/XlLQurPsyFw" target="_blank"><img src="https://i.imgur.com/1hwvXvG.jpeg" width="400" alt="Curso básico android"></a>
+<br>
+<p>
+<a href="[https://youtu.be/XlLQurPsyFw" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Coloca tu inventario en el tiempo y lugar correctos. Realiza análisis de bases de datos para pronosticar ventas y sugerir transferencias entre tiendas de una organización.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
 <br>
-
 
